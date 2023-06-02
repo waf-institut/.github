@@ -1,12 +1,7 @@
 ## Hi there 👋
 
-<!--
+## Wer ist die W.A.F.?
+Das W.A.F. Institut für Betriebsräte-Fortbildung ist ein neutrales und unabhängiges Bildungsinstitut. Seit fast 40 Jahren unterstützen wir Betriebsräte bei ihrer anspruchsvollen Aufgabe mit Seminaren, Kongressen, spezieller Betriebsrats-Software, Fachliteratur und persönlicher Beratung durch Sachverständige vor Ort. Unsere Unabhängigkeit ermöglicht es uns, das Seminar-Angebot ausschließlich nach den Bedürfnissen der Betriebsräte auszurichten.
 
-**Here are some ideas to get you started:**
+🍿 https://www.waf-seminar.de/
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
